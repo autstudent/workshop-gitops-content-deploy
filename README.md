@@ -7,3 +7,5 @@ You will find three branches:
 - _setup-sno_: branch with configuration to setup argo hub and destination clusters.
 - _main_: main branch to deploy managed clusters configuration. It will be pull and customized by users during the workshop.
 - _main-day2_: same branch as main but with an additional application set to deploy day2 operations using ApplicationSet.
+
+hola
